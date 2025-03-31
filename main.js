@@ -230,7 +230,7 @@ function processData(myArray) {
         //console.log(arrayOne);
         
         
-		if ( arrayOne.length == 1) {
+		if ( arrayOne.length == 1) { 
 		    return console.log(arrayOne[0])
         } else {
 		    return console.log(arrayOne[arrayOne.length-2])
